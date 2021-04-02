@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python /etc/rc.d/w00dsrc/w00d &
